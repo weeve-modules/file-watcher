@@ -4,7 +4,7 @@
 | name                 | File Watcher Ingress                                       |
 | type                 | ingress                                                    |
 | version              | v0.0.1                                                     |
-| docker image         | [weevenetwork/weeve-boilerplate](https://linktodockerhub/) |
+| docker image         | [weevenetwork/file-watcher](https://linktodockerhub/) |
 | tags                 | Docker, Weeve, MVP                                         |
 | authors              | Marcus Jones                                               |
 | module specification | v1.0.0                                                     |
